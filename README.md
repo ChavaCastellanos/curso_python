@@ -10,5 +10,4 @@ El curso está dividido en 6 unidades.
 - Unidad 5: Programación Orientada a Objetos
 - Unidad 6: Interfaces Gráficas
 
-El repositorio se organiza por carpetas, cada una de ellas corresponde a una unidad temática del curso. Ahí encontrarás los materiales y los templates para las prácticas.
-
+El repositorio se organiza por carpetas, cada una de ellas corresponde a una unidad temática del curso. Ahí encontrarás los materiales y los templates para los ejercicios y prácticas.
