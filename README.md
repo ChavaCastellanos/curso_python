@@ -1,5 +1,5 @@
 # curso_python
-En este repositorio estará el contenido del curso de Python del Departamento de Robótica de la Benemérita Universidad Autónoma de Aguascalientes.
+En este repositorio estará el contenido del curso de Tópicos de Programación Cibernética del Departamento de Robótica de la Benemérita Universidad Autónoma de Aguascalientes.
 
 El curso está dividido en 6 unidades. 
 
@@ -10,7 +10,7 @@ El curso está dividido en 6 unidades.
 - Unidad 5: Programación Orientada a Objetos
 - Unidad 6: Interfaces Gráficas
 
-El repositorio se organiza por carpetas, cada una de ellas corresponde a una unidad temática del curso. Ahí encontrarás los materiales y los templates para los ejercicios y prácticas.
+El repositorio se organiza por carpetas, cada una de ellas corresponde a una unidad temática del curso. Ahí encontrarás los materiales y las plantillas para los ejercicios y prácticas.
 La mayor parte de los ejercicios está en formato .ipynb, que es el tipo de formato de cuadernos de jupyter, y algunos ejercicios están parcial o completamente en archivos .py. La instalación de python y jupyter es cubierta en la Unidad 1.
 
-Este es un curso autogestivo, esto quiere decir que el estudiante tiene la responsabilidad de administrar su tiempo para completar las actividades por sí mismo. Yo estaré para guiar y, de ser necesario, corregir.
+Este es un curso autogestivo, esto quiere decir que el estudiante tiene la responsabilidad de administrar su tiempo para completar las actividades por sí mismo. El maestro (o sea yo), estará para guiar y, de ser necesario, corregir.
