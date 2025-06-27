@@ -15,6 +15,6 @@ Para esto, sigue las siguientes instrucciones:
 - Pulsa enter, debería mostrarse en la terminal algo como 'Python 3.X.X'.
 
 Adicionalmente, puedes instalar el editor de código VSCode. 
-Este también puede abrir, editar y ejecutar cuadernos de jupyter, sólo tienes que instalar una extensión adicional además de Anaconda.
-La ventaja de usar VSCode es que también puedes utilizarlo para editar y ejecutar scipts de python(.py) e incluso programar en otros lenguajes en el mismo editor.
+Este también puede abrir, editar y ejecutar cuadernos de jupyter. Para esto primero tienes que instalar Anaconda, instalar VSCode y por último instalar las estensiones para python y Jupyter en VSCode.
+La ventaja de usar VSCode es que también puedes utilizarlo para editar y ejecutar scipts de python(.py) e incluso programar en otros lenguajes con el mismo editor.
 No es necesario utilizar VSCode para este curso, simplemente lo recomiendo como una alternativa.
