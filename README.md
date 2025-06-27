@@ -14,3 +14,5 @@ El repositorio se organiza por carpetas, cada una de ellas corresponde a una uni
 La mayor parte de los ejercicios está en formato .ipynb, que es el tipo de formato de cuadernos de jupyter, y algunos ejercicios están parcial o completamente en archivos .py. La instalación de python y jupyter es cubierta en la Unidad 1.
 
 Este es un curso autogestivo, esto quiere decir que el estudiante tiene la responsabilidad de administrar su tiempo para completar las actividades por sí mismo. El maestro (o sea yo), estará para guiar y, de ser necesario, corregir.
+
+Copia este repositorio en una carpeta que puedas ubicar fácilmente. Es posible que durante el curso se actualicen algunas plantillas u otros materiales, ¡ten cuidado de no perder tu progreso cuando descargues los archivos actualizaods!
