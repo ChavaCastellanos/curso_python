@@ -1,0 +1,20 @@
+### Actividad 1: instalación de Anaconda Distribution ###
+
+En este curso usaremos la aplicación Anaconda Distribution.
+Está disponible para Windows, MacOS y Linux, elige la instalación que vaya con tu equipo y sigue las instrucciones en el siguiente link:
+
+https://www.anaconda.com/docs/getting-started/anaconda/install
+
+Sigue el procedimiento y commprueba tu instalación de Anaconda Navigator.
+
+Normalmente, el proceso de instalación de Anaconda incluye la última versión de python. Sin embargo, ¡te recomiendo que revises qué versión instaló!
+Para esto, sigue las siguientes instrucciones:
+
+- Abre una ventana de comandos. Para Windows, presiona Win + R, escribe 'cmd' o 'powershell', y presiona 'Enter'; en Linux, Presiona 'Ctrl + Alt + T'; En MacOs,Presiona 'Cmd + Barra espaciadora'.
+- Escribe el siguiente comando 'python --version', si este no funciona intenta 'python3 --version'.
+- Pulsa enter, debería mostrarse en la terminal algo como 'Python 3.X.X'.
+
+Adicionalmente, puedes instalar el editor de código VSCode. 
+Este también puede abrir, editar y ejecutar cuadernos de jupyter, sólo tienes que instalar una extensión adicional además de Anaconda.
+La ventaja de usar VSCode es que también puedes utilizarlo para editar y ejecutar scipts de python(.py) e incluso programar en otros lenguajes en el mismo editor.
+No es necesario utilizar VSCode para este curso, simplemente lo recomiendo como una alternativa.
