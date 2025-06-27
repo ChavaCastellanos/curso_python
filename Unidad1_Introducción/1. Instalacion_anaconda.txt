@@ -14,6 +14,10 @@ Para esto, sigue las siguientes instrucciones:
 - Escribe el siguiente comando 'python --version', si este no funciona intenta 'python3 --version'.
 - Pulsa enter, debería mostrarse en la terminal algo como 'Python 3.X.X'.
 
+Ahora, en la terminal, escribe python y pulsa enter (si esto arroja un error, intenta de nuevo con python3). Se abrirá lo que llamamos python shell, aquí puedes escribir comandos de python y el interpretador los ejecutará uno a la vez.
+Escribe print('Hola mundo!') y presiona la tecla 'enter'.
+Si quieres salir del Shell, escribe la función exit() y volverás a la ventana de comandos. 
+
 Adicionalmente, puedes instalar el editor de código VSCode. 
 Este también puede abrir, editar y ejecutar cuadernos de jupyter. Para esto primero tienes que instalar Anaconda, instalar VSCode y por último instalar las estensiones para python y Jupyter en VSCode.
 La ventaja de usar VSCode es que también puedes utilizarlo para editar y ejecutar scipts de python(.py) e incluso programar en otros lenguajes con el mismo editor.
