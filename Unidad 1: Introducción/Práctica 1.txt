@@ -1,0 +1,21 @@
+En esta práctica, vas a crear un recibo con un script de Python.
+Guarda el código en un archivo llamado practica_1_Nombre_Apellido.py
+Usa lo que aprendiste hasta ahora para que en la terminal se muestre algo así:
+
+**************************************************
+                Empresa Ficticia
+                Calle Imaginaria, 123
+                Aguascalientes, Ags
+==================================================
+        Productos        Precio
+        Libro           $15.99
+        Computadora     $799.99
+        Monitor         $199.99
+==================================================
+                        Total: 
+                        $1015.97
+==================================================
+        Gracias por su compra!
+**************************************************
+
+
