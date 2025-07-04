@@ -1,0 +1,6 @@
+En esta práctica vas a crear una calculadora básica.
+Debes recibir la operación completa del usuario y mostrar tanto la operación como el resultado.
+Luego debes preguntar al usuario si desea hacer otra operación, en cuyo caso vuelve a empezar.
+Si el usuario no quiere hacer otra, termina el programa. 
+Hazlo SIN utilizar la función eval().
+Guarda el archivo como practica_2_Nombre_Apellido.py
