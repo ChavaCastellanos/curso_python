@@ -1,0 +1,18 @@
+En esta práctica crearás un juego de ahorcado.
+El flujo del juego debe ser el siguiente:
+
+1. Selecciona una palabra para jugar.
+2. Solicita la participación del usuario.
+3. Comprueba si la suposición es correcta.
+    a. Si es correcta, muestra la letra en el lugar correcto.
+    b.Si no lo es, pierde una vida.
+4. Continúa los pasos 2 y 3 hasta que ocurra una de las siguientes situaciones:
+    a. El usuario acierta la palabra.
+    b. El usuario pierde todas sus vidas.
+
+Para lograr esto, debes usar dos librerías adicionales, añádelas al inicio de tu código para poderlas usar:
+
+from random import choice
+from IPython.display import clear_output
+
+Investiga cómo se usan.
