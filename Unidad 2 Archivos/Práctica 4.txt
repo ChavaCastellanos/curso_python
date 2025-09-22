@@ -1,0 +1,11 @@
+En esta práctica, escribe un programa en Python en donde crearás recibos de una empresa similar a la práctica 1.
+En esta ocasión, hay que seguir los siguientes requisitos:
+- Define al menos 5 productos con sus respectivos precios.
+- Crea un menú con estas opciones:
+    1. Mostrar productos disponibles
+    2. Mostrar los productos en el carrito
+    3. Añadir productos al carrito.
+    4. Eliminar productos del carrito.
+    5. Guardar recibo de productos.
+- En la opción 5, debes guardar los nombres y número de productos en un recibo en formato .txt.
+También debe incluir el cálculo del total.
