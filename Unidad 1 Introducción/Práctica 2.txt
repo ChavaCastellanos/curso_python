@@ -1,4 +1,4 @@
-En esta práctica vas a crear una calculadora básica.
+En esta práctica vas a crear una calculadora básica (suma, resta, multiplicación y división).
 Debes recibir la operación completa del usuario y mostrar tanto la operación como el resultado.
 Luego debes preguntar al usuario si desea hacer otra operación, en cuyo caso vuelve a empezar.
 Si el usuario no quiere hacer otra, termina el programa. 
