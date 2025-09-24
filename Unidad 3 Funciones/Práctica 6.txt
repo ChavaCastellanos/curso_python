@@ -1,0 +1,16 @@
+Marilyn trabaja para Integrated Systems, Inc., una empresa de software reconocida por ofrecer excelentes beneficios sociales. 
+Uno de sus beneficios es una bonificación trimestral que se paga a todos los empleados. 
+Otro beneficio es un plan de jubilación para cada empleado. 
+La empresa aporta el 5% del salario bruto y las bonificaciones de cada empleado a sus planes de jubilación.
+Marilyn quiere crear un programa que calcule la contribución de la empresa a la cuenta de jubilación de un empleado durante un año. 
+Quiere que el programa muestre por separado el importe de la contribución para el salario bruto del empleado y para las bonificaciones. 
+Aquí tiene un algoritmo para el programa:
+
+    Obtener el salario bruto anual del empleado.
+    Obtener el importe de las bonificaciones pagadas al empleado.
+    Calcular y mostrar la contribución para el salario bruto.
+    Calcular y mostrar la contribución para las bonificaciones.
+
+Usa una 'constante' global para la tasa de aportación sobre el salario bruto.
+
+// TODO: check if this problem is easy to understand
