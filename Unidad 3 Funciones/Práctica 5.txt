@@ -1,0 +1,26 @@
+Funciones y Jerarquía de un Programa
+
+Professional Appliance Service, Inc. ofrece servicios de mantenimiento y reparación de electrodomésticos. 
+El propietario desea proporcionar a cada técnico de servicio de la empresa una pequeña computadora portátil que muestra instrucciones paso a paso para muchas de las reparaciones que realizan. 
+Para ver cómo podría funcionar, el propietario le ha pedido que desarrolle un programa que muestre las siguientes instrucciones para desmontar una secadora de ropa Acme:
+
+Paso 1: Desenchufe la secadora y sepárela de la pared.
+Paso 2: Retire los seis tornillos de la parte trasera de la secadora.
+Paso 3: Retire el panel trasero de la secadora.
+Paso 4: Levante la parte superior de la secadora.
+
+Durante su entrevista con el propietario, usted decide que el programa debe mostrar los pasos uno a uno. 
+Decide que, después de cada paso, se le pedirá al usuario que presione la tecla Enter para ver el siguiente. 
+Este es el algoritmo en pseudocódigo:
+
+    Mostrar un mensaje de inicio que explica la función del programa.
+    Pedir al usuario que presione Enter para ver el paso 1.
+    Mostrar las instrucciones del paso 1.
+    Pedir al usuario que presione Intro para ver el siguiente paso.
+    Mostrar las instrucciones del paso 2.
+    Pedir al usuario que presione Intro para ver el siguiente paso.
+    Mostrar las instrucciones del paso 3.
+    Pedir al usuario que presione Intro para ver el siguiente paso.
+    Mostrar las instrucciones del paso 4.
+
+Usa funciones para mostrar las instrucciones de cada paso y una función main() para llamar los pasos en orden.
