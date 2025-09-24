@@ -24,3 +24,4 @@ Este es el algoritmo en pseudocódigo:
     Mostrar las instrucciones del paso 4.
 
 Usa funciones para mostrar las instrucciones de cada paso y una función main() para llamar los pasos en orden.
+Para pausar el programa hasta que el usuario presione enter puedes usar la función input('Presione Enter para ... ')
