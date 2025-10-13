@@ -9,6 +9,25 @@ Se deben seguir estas reglas al mover los discos:
 - No se puede colocar un disco encima de otro más pequeño.
 - Todos los discos deben estar siempre en un poste, excepto mientras se mueven.
 
+Resuelve primero este problema en lapiz y papel, puedes revisar tu respuesta considerando que el mínimo número de movimientos necesarios con 3 discos es 7. 
+Nota que necesitas usar un poste como pivote o poste temporal. Te recomiendo que enumeres los postes de forma que tengas:
+Un poste inicial, un poste temporal y un poste final.
+Con esta información, define el caso base y el caso recursivo.
+
 Escribe un programa donde uses una función recursiva para resolver este problema con 3 discos y 3 postes.
+El programa NO hará ningún movimiento como tal, sólo debe imprimir las instrucciones de cada movimiento.
+Los mensajes aparecerán así:
+'Mover disco del poste X al poste Y'
+
+
+Puedes usar esto como punto de inicio para tu programa:
+
+numero_discos = 3
+poste_inicio = 0
+poste_final = 2
+poste_temp = 1
+
+mover_discos(numero_discos,poste_inicio,poste_final,poste_temp)
+
 
 //TODO: try it out to see how difficult it is
