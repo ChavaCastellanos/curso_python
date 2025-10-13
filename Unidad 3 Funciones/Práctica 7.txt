@@ -1,0 +1,14 @@
+Torres de Hanoi
+
+Las Torres de Hanói es un juego matemático que se utiliza a menudo en informática para ilustrar el poder de la recursión. 
+El juego utiliza tres postes y un conjunto de discos con agujeros en el centro. 
+Los discos se apilan en uno de los postes, como se muestra en la Figura Torre_de_Hanoi.jpg.
+Se deben seguir estas reglas al mover los discos:
+
+- Solo se puede mover un disco a la vez.
+- No se puede colocar un disco encima de otro más pequeño.
+- Todos los discos deben estar siempre en un poste, excepto mientras se mueven.
+
+Escribe un programa donde uses una función recursiva para resolver este problema con 3 discos y 3 postes.
+
+//TODO: try it out to see how difficult it is
