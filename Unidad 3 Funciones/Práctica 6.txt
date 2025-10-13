@@ -12,5 +12,12 @@ Aquí tiene un algoritmo para el programa:
     Calcular y mostrar la contribución para las bonificaciones.
 
 Usa una 'constante' global para la tasa de aportación sobre el salario bruto.
+Implementa cada uno de los pásos del pseudocódigo anterior en funciones, después llámalas desde el programa. Revisa los resultados.
 
-// TODO: check if this problem is easy to understand
+Ejemplo de salidas esperadas por el programa:
+El texto entre [] es la entrada que da el usuario.
+
+Introduce el salario bruto anual: [80000.00] [Enter]
+Introduce el importe de las bonificaciones pagadas al empleado: [20000.00] [Enter]
+Contribución para el salario bruto: $4000.00
+Contribución para las bonificaciones: $1000.00
