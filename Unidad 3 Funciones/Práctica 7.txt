@@ -19,15 +19,16 @@ El programa NO hará ningún movimiento como tal, sólo debe imprimir las instru
 Los mensajes aparecerán así:
 'Mover disco del poste X al poste Y'
 
-
 Puedes usar esto como punto de inicio para tu programa:
 
+```
 numero_discos = 3
 poste_inicio = 0
 poste_final = 2
 poste_temp = 1
 
 mover_discos(numero_discos,poste_inicio,poste_final,poste_temp)
+```
 
-
-//TODO: try it out to see how difficult it is
+mover_discos será tu método recursivo. Es tu deber implementarlo en tu programa. 
+Te recomiendo que utilices tu solución en papel para guiarte en tu solución programática, esto hará más fácil ver los pasos necesarios para la solución.
